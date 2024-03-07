@@ -68,6 +68,6 @@ public class TestDrownSorted {
 
     @AfterTest
     public void TheardDown(){
-     //   driver.quit();
+        driver.quit();
     }
 }
